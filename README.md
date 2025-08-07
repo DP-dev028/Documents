@@ -1,8 +1,4 @@
-
-  - Fade effects
-
-- **Game Mechanics**
-  - Physics-based movement# Realistic Flappy Bird Clone
+# Realistic Flappy Bird Clone
 
 A polished Flappy Bird clone made with Pygame, featuring realistic physics, animations, and visual effects.
 
@@ -19,6 +15,10 @@ A polished Flappy Bird clone made with Pygame, featuring realistic physics, anim
   - Screen shake on impacts
   - Particle effects for collisions
   - Score popup animations
+  - Fade effects
+
+- **Game Mechanics**
+  - Physics-based movement
   - Collision detection
   - Progressive difficulty
   - High score system
@@ -91,4 +91,5 @@ python main.py
 ## License
 
 This project is open source and available under the MIT License.
+
 
