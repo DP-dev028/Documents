@@ -38,8 +38,8 @@ A polished Flappy Bird clone made with Pygame, featuring realistic physics, anim
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/flappy-bird.git
-cd flappy-bird
+git clone https://github.com/DP-dev028/Flappy-Bird-in-Python.git
+cd Flappy-Bird-in-Python
 ```
 
 2. Install Pygame:
