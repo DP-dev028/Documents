@@ -23,7 +23,6 @@ wheels/
 
 # Virtual Environment
 .env
-*.env
 .venv
 venv/
 ENV/
@@ -37,4 +36,3 @@ Thumbs.db
 
 # Project specific
 *.odt
-highscore.txt
